@@ -1,0 +1,14 @@
+C:\Users\Farid\Desktop\DepartmentEmploee\DepartmentEmploee\bin\Debug\DepartmentEmploee.exe.config
+C:\Users\Farid\Desktop\DepartmentEmploee\DepartmentEmploee\bin\Debug\DepartmentEmploee.exe
+C:\Users\Farid\Desktop\DepartmentEmploee\DepartmentEmploee\bin\Debug\DepartmentEmploee.pdb
+C:\Users\Farid\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.csproj.AssemblyReference.cache
+C:\Users\Farid\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.exe
+C:\Users\Farid\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.pdb
+C:\Users\Imac\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.csproj.AssemblyReference.cache
+C:\Users\Imac\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.csproj.CoreCompileInputs.cache
+C:\Users\Imac\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.pdb
+C:\Users\Imac\Desktop\DepartmentEmploee\DepartmentEmploee\bin\Debug\DepartmentEmploee.exe.config
+C:\Users\Imac\Desktop\DepartmentEmploee\DepartmentEmploee\bin\Debug\DepartmentEmploee.exe
+C:\Users\Imac\Desktop\DepartmentEmploee\DepartmentEmploee\bin\Debug\DepartmentEmploee.pdb
+C:\Users\Imac\Desktop\DepartmentEmploee\DepartmentEmploee\obj\Debug\DepartmentEmploee.exe
